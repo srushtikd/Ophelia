@@ -1,4 +1,4 @@
-Ophelia 
+# Ophelia 
 
 Ophelia is a JavaFx based e-commerce desktop app for jewelry.  
 It features Firebase Authentication, Firestore, Gemini API for AI-based captions, and Unsplash API for dynamic visuals.  
