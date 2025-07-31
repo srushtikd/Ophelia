@@ -18,5 +18,3 @@ Built with clean MVC architecture, it offers a smooth, modern shopping experienc
 - Secure login/signup flow
 - Smooth desktop UI
 
-#  Author
-Srushti Kumar Dawkhar
